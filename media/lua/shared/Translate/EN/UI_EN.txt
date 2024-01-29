@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_CDELASB_toggleLights = "Emergency Lights",
+    UI_CDELASB_toggleSiren = "Emergency Siren",
+}

@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_CDELASB_toggleLights = "Сигнальные Огни",
+    UI_CDELASB_toggleSiren = "Сирена",
+}
